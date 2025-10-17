@@ -13,9 +13,14 @@ This project uses a **Convolutional Neural Network (CNN)** to classify hand sign
 
 ## 🚀 How to Run
 
+Clone the dataset First
 ```bash
-git clone https://github.com/<your-username>/SignLanguageDigits.git
-cd SignLanguageDigits
+git clone https://github.com/ardamavi/Sign-Language-Digits-Dataset/tree/master/Dataset
+```
+Clone My project
+```bash
+git clone https://github.com/Waheed-Gulzar/CNN.git
+cd CNN
 python model.py
 ```
 
